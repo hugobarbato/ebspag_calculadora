@@ -83,15 +83,15 @@ $taxas = explode('
              <br>
              <div class="super-destaque" style="display:none">
                 <h2 class="fundo-verde">Parcelamento Loja</h2>
-                <p class="texto-vermelho"> <b>VOCÊ RECEBERÁ <span id="recebera_loja" class="money"> XXX,00</span></b> </p>
                 <p class="texto-azul"> O CLIENTE PAGARÁ <span id="parcelas_2">02</span> PARCELAS DE R$ <span id="parcelas_loja" class="money"> XXX,00</span> </p>
+                <p class="texto-vermelho"> <b>VOCÊ RECEBERÁ <span id="recebera_loja" class="money"> XXX,00</span></b> </p>
                
              </div>
             <div class="super-destaque" style="display:none">
                 <h2 class="fundo-laranja">Parcelamento Máquina</h2>
+                <p class="texto-azul"> O CLIENTE PAGARÁ <span id="parcelas_3" >02</span> PARCELAS DE R$ <span id="valor_parcela_maquina" class="money"> XXX,00</span></p>
                 <p class="texto-vermelho"> <b>VALOR QUE DEVERÁ SER INSERIDO NA MÁQUINA R$ <span id="valor_maquina" class="money"> XXX,00</span></b> </p>
                 <p class="texto-azul"> VOCÊ RECEBERÁ R$ <span id="valor_total" class="money"> XXX,00</span> </p>
-                <p class="texto-azul"> O CLIENTE PAGARÁ <span id="parcelas_3" >02</span> PARCELAS DE R$ <span id="valor_parcela_maquina" class="money"> XXX,00</span></p>
               
             </div>
             </div>
